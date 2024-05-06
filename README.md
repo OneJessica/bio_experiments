@@ -1,6 +1,6 @@
-# 质粒抽提步骤
+# bio_experiments
 
 # Usage
 ```
-streamlit run bio_experiments.py
+streamlit run bio_protocols.py
 ```
