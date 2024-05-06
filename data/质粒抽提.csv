@@ -1,0 +1,14 @@
+name,plasmid_type,entity,entity_volumn,do,time,temperature,note,kit_type,entity_components,url
+Cell harvest,High-copy,,,4500-6000g,15min,4,离心后用15mlPBS洗涤,Midi,,https://zfz-oss.oss-cn-hangzhou.aliyuncs.com/temp/62212873f1b52f3b78c7f4e6bc0af2a4.jpeg
+Cell resuspension,High-copy,RES-EF,8ml,Mix,,,彻底重悬，涡旋后用枪混匀,Midi,Resuspension Buffer RES-EF的主要成分包括、EDTA、Tris-HCl和RNase A。其中EDTA螯合二价金属离子，降低DNase活性，防止DNA被降解，Tris-HCl用于调节pH，而RNase A则含有RNA酶,https://www.noninbio.com/home/a/b/qwikfy/resource/2022/11/16/63748089b4ca8.png
+Cell lysis,High-copy,LYS-EF,8ml,Mix,5min,RT,,Midi,裂解液Lys-EF的组分是NaOH和SDS。NaOH是强碱，可以使质粒、基因组和蛋白质变性。SDS是表面活性剂，可以溶解细胞质膜，加大溶解效率，并且还具有结合蛋白质使其变性的功能,https://img.analytics-shop.com/QaSkIFm2i-nLj05Ew3tZJcBISYU=/fit-in/600x600/filters:fill(ffffff):no_upscale()/13865_Bio_Pufferflaschen_Demobild_600x600.png
+Equilibration of the column,High-copy,EQU-EF,15ml,,,,,Midi,EQU-EF组分是指740380.1000和740380.3000的缓冲液，是用于细胞裂解和DNA纯化的。这些缓冲液的主要成分包括EDTA、Tris-HCl和RNase A等,https://www.ebiotrade.com/custom/gene/200602/images/2.jpg
+Neutralization,High-copy,NEU-EF,8ml,Mix and incubate on ice,5min,,混匀直到无色，有时蓝色难以去掉，冰上放置后会自动消失。,Midi,,https://img.analytics-shop.com/QaSkIFm2i-nLj05Ew3tZJcBISYU=/fit-in/600x600/filters:fill(ffffff):no_upscale()/13865_Bio_Pufferflaschen_Demobild_600x600.png
+Wash 1,High-copy,FIL-EF,5ml,,,,,Midi,,https://dichbio.com/wp-content/uploads/2023/03/%E5%9B%BE%E7%89%876.png
+Wash 2,High-copy,ENDO-EF,35ml,,,,,Midi,,https://dichbio.com/wp-content/uploads/2023/03/%E5%9B%BE%E7%89%876.png
+Wash 3,High-copy,WASH-EF,15ml,,,,,Midi,,https://dichbio.com/wp-content/uploads/2023/03/%E5%9B%BE%E7%89%876.png
+Elution,High-copy,ELU-EF,5ml,,,,,Midi,,https://dichbio.com/wp-content/uploads/2023/03/%E5%9B%BE%E7%89%876.png
+Precipitation,High-copy,Isopropanol,3.5ml,4500-15000g,30min,4,,Midi,,https://m.chemicalbook.com/SupplyImg/2023-02-02/202302021621284428928.jpg
+Wash,High-copy,70%EtOH,2ml,4500-15000g,5min,RT,,Midi,,http://www.senking.com.cn/Uploads/5f06ca59654ae.jpg
+Dry,High-copy,,,,10-15min,,超净台中风干,Midi,,https://img01.71360.com/file/read/www2/M00/FC/B3/rBwBEmQHARWAXZhoAAJgRhvJg-E435.png
+Rconstitution,High-copy,TE-EF/H2O-EF,0.7ml,,,,4度冰箱溶解过夜,Midi,,https://blog.addgene.org/hs-fs/hub/306096/file-404153303-png/Plasmid_Map.png?width=512&name=Plasmid_Map.png
